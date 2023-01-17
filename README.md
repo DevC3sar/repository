@@ -8,5 +8,5 @@
 ### About me
 I'm a {Studient and technology lover} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
 
-- - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
+- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
